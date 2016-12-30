@@ -1,0 +1,1 @@
+# easy_ssm_mvn
